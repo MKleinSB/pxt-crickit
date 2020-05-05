@@ -1,10 +1,4 @@
 {
-    "crickit.sawsetpixelcolor|block": "crickit setze Pixelfarbe %rgb=colorNumberPicker",
-    "State.Low|block": "Aus",
-    "MCP23017.initMCP23017LED|block": "initialisiere den MCP23017 für LEDs",
-    "MCP23017.setLeds|block": "schalte alle LEDs %zustand",
-    "MCP23017.setLed|block": "schalte LED %name | %zustand",
-    "MCP23017.plotBarGraph|block": "zeichne Balkendiagramm von %von| bis %bis",
     "{id:category}Crickit": "Crickit",
     "{id:groups}Servos": "Servos",
     "{id:groups}Signals": "Signale",
