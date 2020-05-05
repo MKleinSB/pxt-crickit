@@ -1,6 +1,6 @@
 {
     "name": "crickit",
-    "version": "0.0.32",
+    "version": "0.0.33",
     "description": "MakeCode support for Adafruit CRICKIT",
     "license": "MIT",
     "dependencies": {
@@ -9,6 +9,7 @@
     },
     "files": [
         "README.md",
+        "_locales/de/pxt-crickit-strings.json",
         "motors.ts",
         "signals.ts",
         "servo.ts",
