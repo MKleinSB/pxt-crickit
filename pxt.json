@@ -25,5 +25,8 @@
     "testDependencies": {
         "circuit-playground": "*"
     },
-    "public": true
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ]
 }
